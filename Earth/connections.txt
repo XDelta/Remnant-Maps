@@ -1,0 +1,38 @@
+fairview, top
+-connects to hidden grotto
+fairview, right
+-sunken passage
+fairview, middle
+-the grinder
+fairview, bottom
+-chapel station
+chapel station, left
+-fairview
+the grinder, left
+-fairview
+the grinder, right
+-sunken passage
+sunken passage, bottom
+-fairview
+sunken passage, top
+-the grinder
+hidden grotto
+-fairview
+church, bottom
+-chapel station
+church, top
+-west court
+westcourt, left
+-church
+westcourt, top left
+-the tangled pass
+westcourt, top right
+-the artery
+westcourt, close right
+-junk town
+westcourt, far right
+-the ash yard
+the tangled pass, top
+-westcourt
+the ash yard
+-keepers tower
