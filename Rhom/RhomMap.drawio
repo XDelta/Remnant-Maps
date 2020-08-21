@@ -1,1 +1,327 @@
-<mxfile modified="2020-08-21T08:30:31.630Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="D6XHGD_12Fth9wyej_jP" version="13.6.4" type="github"><diagram id="gwVdG-KHAgIQCyrvABbW" name="Map">7V1bd+I4Ev41ObP7QI7vkMeQSyfT6e10SKc788IRtgAPxmJsE5L59SthG4wlggNGEkT90MHCNnbVV6W6qXRiXoxfv0RgMvyGPBicGJr3emJenhiGYTst/IeMvGUjmq2nI4PI99KxwkDH/xdmg1o2OvU9GK+cmCAUJP5kddBFYQjdZGUMRBGarZ7WR8Hqr07AAFIDHRcE9Ogv30uG6WjL1pbjN9AfDPNf1rXsmzHIT84G4iHw0KwwZF6dmBcRQkn6afx6AQNCvZwu6XXXa75dPFgEw6TKBX7rzwvz6uln3A5/D6z2zNF/xQ0jvcsLCKbZCz8OIR64AnECoxB/+uWHXvYCyVtOlQhNQw+SG+snZns29BPYmQCXfDvDQMBjw2QcZF/TD5o9+wuMEvhaGMoe/AtEY5hEb/iUDDatjIazJQv0nK7DAvmtbAxkXB8s7rQkDP6Q0eYDdHIoOp0YToB/te35L/jjgHz8GXpvfjjA5z0OIxTC/BT8i4WzxBEz+7ahOxmZMuoujnmQ9+ouBPBp8Ffn0vvxpj9dNFuXUcM0KKpAD8thdoiiZIgGKATB1XK0vaSbho+W59whNMmo9TdMkrdMqYBpglZpCV/95Hfh8zO51amdHV2+ZneeH7zlByF+39/Fg8JV5HB52fwovy59P/JSa8U3G4rRNHLhO1i0MjUIogFM3iFqk42CCAYg8V9Wn6N2gbEqKhbt9la4duGKfya1TJOhX/gLxPaYNDUalOwTDaYkiIJp/twFwl8M8bsOxYNS04Sj0pYClR6IhwvC7wBRht48CIg2peDCYuLTt5n4tmKYUZVhLakYZtM6RSjDtrJU9sqw3AeUhGH5cxcY9gvGiYvfN5FgHhDu/Ng0fUQAGjvQE/JN4IejnXBqnR0mTm2WF/phPpTIKNBorM4HWyo+5M9d4MO3eawJj92DOBanM/Jvyw6+eFvSbh0XdnNIbsZuUyrs2rRN30EEu39g2GrXPgw84fA1Deng69Ri00kE32ZV+J5JBV+nFlPkEPkgmSlCO6VpfO8XnghhKKEKEW5FOzpFssOGbmXrzZQLurT1lkL3CwgCki+UDrvi49M2Hc4/bOzmqeRDwy6tQ258zyMKV/sSoQRTSDR6ad9DuOa16ezKn1MMQUN7RDPxcxVFMfHybtUS+ZdH3i2jorxbllTynj83NVddDNEoLTW4QWTWEgfiHLQLMIoD7bqc83k8xP8/g0i8a0vJuniymbQ9tIWs1x3dXWYvlgmL55NivuKD2YuNoq/XPtVnl94jHz9LofxGW8VAmbOpNsuuKjF38RgsfqPe36QEztAC0INBerOLaZIMIwSSudIAYUgK9IyNmHAKz5+BSKqKpX1GhPBhRsmPKJ9avDt5ciR5TnXzjKnJNWNKki3forRsB/OmcvWNXOaNSScFOtgwn7szJJFCanNFz9gM3SPcoclvTFk6jyAcBJg4kuShaNpJ4NrUkogSWWpXtY4pdx74C/v1t/PvHe/s6fuPyxfn6+Aquf9+yyyhVnTnoGRpt6hQ3SJF/a14raDTIaInMA0IgVCfMH2uXm9gBCTIj1JqVfiEpMtldWlcrK6qMaW9O5ZLp2j1kjWO5GaPdAGo/E7pO27hklZchcQqf3fAmIhO2IvJn3uynKo0RkMs9M7ndTgYYRNsRZLggHftB8uSyHyFmW5UlMqNTCvKXC6WO0YIrFY5QHBqb8dZpxxq0PnylZU2WuVhZ4jl3J0me+RttfpxGRjt1MZohzOjWfmCVYZ+J+vhtO/9nRm9RbRDBt629Ho429LLGKmPt8Pn66/dQTIOf3+F0/59oxE9RIyVXBTLNpg8IJ6kS3P7/isRxPYgIN5pOv+6aOy72edVQ8ofp2tzh0lCFvuekzczriM4DkGY9CM0xkYZEe34dOaP/NM+fE2weeb34Sm+Jz6z7+PnM64f0gsa1/iKBnaTG+fkGvxF7I+nAXCj6bjrRqCf+OGgOwYJjHwQdLOf6ZLf6eIf6s5/qUt+qTtfk9w1MNReTyfhAD8q/qngAgUomtPD7Peh47r5K+Trhg0tH1msGF4Onec0Wrz5eeAPMPovXYxmGBEy9mIUTBN4HrmZpktplmCYojA7jJMIjWDhWbzmWU/TUmFJ1x+/a/VUt0LLANdN2gplGaFGDUYoE6gVHHsF1E8IVEYEj5F04wpVhrupsKqwyoyYGqKxqgwAhdVqWDUYWVm+WK1Qt3SYWO2DF99FYcOx1iCu5UJZENdr2ZbNxeQUjbf8xgpvx4W3pUITjK8KVSUKX4eML9EAq+CIpPRYsIAdghu/DkgHuNN+gGbuEETJKQjDjK5dcg3IeBHAPumCNSHhKhhdvWDqxdm9VhG4Qux1oC2iJiQtt+qxbFhVmTaDL045UVIfYyp1HHsYEmGr1GUMv3pSYt0KzjPqMQiacy5K37tN6Oi7IMila+x73jx/x9JEqzm9SjythYFnq5aCyQhOWVwFjVHqtHA/9sCsTMwOgFd2ebkTK47I5JWxJ14xm0JBdzRZhNgVr07WG+BMXpn74hVtId3BAWT0rDwYPvVRmOSFEnp+nKU2WzU7UhzU4VOELsbWXdj62bt9udD18+vhWYM2O3SKYfsxbEt2JrR1S1uYkGLtzDY2B+lIDWH/SmiJ/NuPP21yjIszYUGHGs+jMX5zQ0ursYgfojELs0DEKMw6GJHfg2pm8nJf0yiTmXRNGC/nVcn4OzLeFCzjtCGcLWkMICCF/w8IKYN4I8e4SjK9QvBMSTJ/ST4rG9+6YFHWaUdp2QP9K/kzn7Bv8uZobcRYlPKZRdu2RYu2TvtPOVeVcAsVbtG2uG5QyGhHIHTn8XsNzJu3t7EgptkBrYPFHSoZZ8VIWGqar5DT7raawDnK+CLdwwi78JVp2sFW2l6AtqcrZ4Qjo8LyTD640D0bNuXAxZnTNIFTxkUds325kOVMNPvpYM39NJqQHL52m0DlkG/kFt8J/Whr3fHZftLtITTquiiMp2PQC+BuxZgegK2+JKUkjtuCvT4PjcJYUs1XozDabOJbn2Rx+68hmgXzdVlKs2zg2r7yqUy2MetOlGb5xJqFVeYtVrUYFboNKIx+Loxa5aCL6PAZo+BLgVSBdAWk4jVphd6fCqSfG6Q8a9TZtWJHu8hGgbSm8Knw2Z5RhqowqjAq1WTP2OZSYfRTY5TeJUm4Hj3axhgKozVhVLgeteRZvCB9rnTfUgVGIPK7gCwS+KgsFVbZMLL91/N/eHy+l0IbuKPBnBWFU7T5P2dPCZzFLYTBnLEYg1AbD3WgWga3kVdcE8KMbQ9MQTrpM9f10J1bRc9V61ZbfEMhCnzSU1fJ8fvs4irHNh3r4mUAK9uiZFu8IN9zASYvJvRxmhis1Qc8tRNjO8snTHRlYdAWhvCFIoxNNBkNSdoQYNHSHvz+vHTwP18A2Z3tv9x6lBwwh1kVwFw5zNjjXtmQ/G1IQ7qgHGPncmWUCDJKehHAZoaHjQ8UhXE3Ij1LD9sq0ammjsLxTidKRCnCT4/3CKGk6/qRG8DkGNBuaNKhnTbsrI+ivUZwmzYF7vmGLscI7hmIExiA0OsHwA+6YxhA2J1BMEFhFZjb8sKc6joiulWBw9gFL6c+xo2hXRMWKI9kE8+4eiQt2vD8sGpSHkn9UW2OO72wcUEbaGlU+w7FpDNYGnVQwryJZ3yFmbYzbCXM4oVZ9ELBFr1ng6NwIR4Xopektyp1wO6QfYwLjWdUnHnTRCB88XqLrlVoKoEXLvALoAgTeHoxUkvhQjwuRGeJc4W1ocvgRQBe/MHcl1c9yMp9BlmyzbeFKKNoVrX8lqHPoOh+wGd0ZK4znUwC8tAP01DJ8cZsAV9Bpt21vFOkEmSRgsxzMzw2MmiHjczLjyBYdP15nCESpfP//UPNz5u1MF+5pr0yXZX/yCDXoqPtZ+tqyB8QItH2zjDyQ9XHa7My5ivPtDf94bBqnWl9Wnr1/UuvmLR+HPoTGHV7IPbdA0/nS1OlomuqQS3HBrUNvZLnwRcBwtq+KQScyLDwWteE9VRTCDiRoRWUrglrWPYZEUCVZotXAYwth0RWqzoMs9YWxPB9m7XDaZiQAuyJHycoOHDDdl05tgQIp4seRdVJSa/j9t60Z4axDr3uGMSj7gi+dTHVxwe+AoHRzlk45A01q/Ob1U3p2tDqjA2qPlz6USPDrU8UrBoDd+iHcDANjyJglWNcuu6LOmPvrQ+XvamA7HZdwuKY7Bkeka4ER4Vy6bre6zpdHiBqq0Hp53Iua2fxLbyj6F5DNYKUwG6lcxLCtlNUaCdoPwqgS9eBX2dsDyiselMBnQA9gIP4ONAuYTiCTjOpUigBpVBmOf0gATTo/JOqfpUBGjz9+6u7EMCnwV+dS+/Hm/500WxdRg3ayyG7W+aaFkXJEA1QCIKr5WipWG15zh1Ck4xLf8Mkecs4AaYJWkVS+pvzbTSLdGSQNkbTyIXvQTunTAKiAcwu9lt/XphXTz/jdvh7YLVnjv4rbtg2mzURDDBIXlYfpX4RzJ9TBlvkU4ugdJvw6AadOlP9QiToYCg++Gqo5hMyIIMqKBFv0Rmq/YQMyJCv3JSxE7ZqU8ARGO/1ReYLBEbwSwGBu4ZoyFeMyNjjWUVFBUVFA5iguAvGU9IoNvtz2JHRhi5fcSJjw2jVo0WALiwX8Rl5S0RR4S+nQmG+tAExH8z+CdwvP/5xnr/fPP7vL7s/MBvZeRvDYQabU7VHw957yALVv0I4gRHWiNojmpFuOCUmrArVBlHdBaoFJOosKFo1QJFJk0oblZBqrEq94pQy27cyo1e8c2xJyUQQXamXStVJ1sYiSZvNgt5b5IdqD7US93h2mmWyj47oKAUgpQLIIWNyFHim9WJIYbzAVz/5TS4/tbOj58I3l6/ZnecHb/kB6XRduIgcPhe/W142P8qv29JQWmsAVTCUrB0NpezSe4R17lL/lLNQlrN6h/Txs4uWMNl4n1bpPunrUfeZw23xNtsj8Gj3Pe+DF99FYcOx2JuY91sudCXZxLzXsi2b0nxr1BlDWNYHMTmmOZjwoi2aI4EXPttPuj2ERl2Msng6Br0AfjTws4pID8BWXxJEOm4L9vp1IpKdbxEOULMCQqWNHzDfyKanReZ5aW0thwAC+ynpCMInoXu6NbYwulNkn3eyT5saz3cmojskbhG62UlHlIOMixUYPEI7bC1RwUw6LLQ2q2oJTSRa6QxoZwjcUYCJaGgXIHxDdJ9e0WhlRZH4olVYtyJldMlpdFEKVXTcg9FN5w74pTjn1RsMIKOhvmgBNxglQnwFnNG2QMR0tG0MaJt4U41TXw6+jXPfrvXmlQI+izqjHQNHZllY9xw4Yiy45jTLHFwJSh06qLyvqXANrtqicmS/JVvUhF5trvIUa0Wlqq+VipAoX4ux1jptt34bES9Le/D7iXBbrNyMQXxogLFol5MiVN6WnN4WhVHhc7VqXstxri630RDOfpOuDec5WRem6uXEvXcnL4f45kmX16ridx/z/ZqhdB6+IU9TrXZI9LRsMQxUvtOyc3R5PaNqgskxhSK6UoZJu70VDtpyXE88aNWKL9ZMvU1d4E7AYG1AIHYKZyx/UY2B+AOjHIWzOC4WZpt2jEaAgnAhvWm/92avIxD5srRG21H/0Z0ABeOcDrIoF1YQzl+Q77kAkxcT+ijgTtmBorV6/vu7zPZ1grtFgfvsSLHdg2C8rlu3wGbdu+WOSkYLz8YWbHjTpZ+q8w1/Y5aK2QhXe5ViYQ/gXxIMayNSGVQpGHZgqyJ3Ymp5VaTFCj7va1Ekm6t0IE51QBPgulJlR7pgaa+wqyqHAK1H5vIcMOwCg0Wa4kMFBosCuf0XGFSODO+noM3IRTyDVtMpYaZqRRt1I84lbTZrAjronIHVqooMoWX+Fu3eY2phg71YDowNZneE/3amAmv+pSk7sYTl9Pftg8X+eIpZHU3HXTcC/fnWn2OAJ1sfBLtVn/T70JFlya/XPOvRBkAd0BRdbmDT0Ys0f92Z+CGxl0ULr/j6fVuO+v2dbZ8aZ6ocNYK6ORhmc8X0WOSCP2zDlG5klo2hfdswdONxSYt9FobzwlIuXMWng4hVEXPOXjBHZZkdezvM0SsQbb6YE7YURDUR2WcTkbVNH0UvP7DV4hOOBa2ylTPbtUSOMJUm5NvAD0efYwrcMUKwa9uKNfZSKTvl5NtafXQSbJTLrsvW+54nQefogkd2ZWic7QiN3dQBHTz6GYZgTHpEiPI0182c4uNGNh03Sr3z9jQc1dO2t2ZjI08Xiyslp731lGT3UywY+O8NIDcRTDiqioWR5udMN9pK+/CuWHVuPG9TVhmea46zjmVGyuwDEHr9APhBdwwDCKXZer7WElyboVG5WqOOWv+p1n++q4mFQ7RJR+SFT1eNfbbJOkk3qy4a+Pgdht+QB8kZ/wc=</diagram></mxfile>
+<mxfile modified="2020-08-21T08:31:12.502Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="6VhHeBij1Hob23KWqbhI" version="13.6.4" type="github">
+  <diagram id="gwVdG-KHAgIQCyrvABbW" name="Map">
+    <mxGraphModel dx="2912" dy="2241" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-2" value="The Eastern Wind" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-6" value="&lt;div&gt;Undying Throne&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i8JC3EVUsBnXg4Bw61Ws-4" target="ELnaeVgZSDdQy1VC78Dr-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-4" value="The Eastern Wind II" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shape=link;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="i8JC3EVUsBnXg4Bw61Ws-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-100" y="40" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-13" value="Vault of the Herald" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="i8JC3EVUsBnXg4Bw61Ws-2" target="i8JC3EVUsBnXg4Bw61Ws-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="100" as="sourcePoint" />
+            <mxPoint x="-100" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-23" value="&amp;nbsp;Path&amp;nbsp;" style="endArrow=open;endFill=1;endSize=12;html=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="40.5" as="sourcePoint" />
+            <mxPoint x="600" y="41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-24" value="&amp;nbsp;Shortcut&amp;nbsp;" style="endArrow=open;endFill=1;endSize=12;html=1;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="60.5" as="sourcePoint" />
+            <mxPoint x="600" y="61" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i8JC3EVUsBnXg4Bw61Ws-25" value="&amp;nbsp;One Of&amp;nbsp;" style="endArrow=open;endFill=1;html=1;shape=link;" parent="1" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="480" y="81" as="sourcePoint" />
+            <mxPoint x="600" y="81.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/simulacrum_crafting_material_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#ffe6cc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#d79b00;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="130" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/favicon-64.png;fillColor=#f8cecc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#b85450;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="100" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-20" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/favicon-64.png;fillColor=#f8cecc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#b85450;shadow=0;" parent="1" vertex="1">
+          <mxGeometry y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;pointerEvents=1;rounded=1;shadow=0;glass=0;comic=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-240" width="50" height="680" as="geometry" />
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-26" value="&lt;div&gt;Rhom&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="-290" y="330" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-28" value="Simulacrum" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="130" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-30" value="Checkpoint" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="100" width="240" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="hYFK_gtmnXKeufP--rRr-31" value="Legend" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;fontStyle=1;fontSize=18;" parent="1" vertex="1">
+          <mxGeometry x="480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-3" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="340" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-4" value="Armor Vault: Vault of the Hearld" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="340" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-7" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="370" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-8" value="The Clean Room" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="370" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-10" value="Undying King: Harrow Boss" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="550" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-17" value="Purple Item" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="190" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/trait_book_consumable_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#dae8fc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#6c8ebf;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="160" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-19" value="Tome of Knowledge" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="160" width="240" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-26" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/trait_book_consumable_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#dae8fc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#6c8ebf;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-43" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/akari_armor_remnant_from_the_ashes_wiki_guide_220px.png;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#00000060;" parent="1" vertex="1">
+          <mxGeometry x="480" y="221" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-44" value="Akari Set" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="221" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-47" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="400" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-48" value="The Monolith" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="400" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-50" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/voidcarapace_armor_remnant_from_the_ashes_wiki_guide_220px.png;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#00000060;" parent="1" vertex="1">
+          <mxGeometry x="480" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-51" value="Void Set" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="250" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-53" value="&lt;div&gt;Beam Rifle (Gantry)&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="280" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-63" value="4" style="whiteSpace=wrap;html=1;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=35;imageHeight=12;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/wastelandflail_melee_weapon_remnant_from_the_ashes_wiki_guide_250px.png;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#00000060;" parent="1" vertex="1">
+          <mxGeometry x="480" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-64" value="Wastelander Flail" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="310" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-81" value="4" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="430" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-82" value="The Lost Gantry" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="430" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-83" value="5" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="460" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-85" value="6" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-86" value="&lt;div&gt;Scourge Boss&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="490" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-87" value="7" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-89" value="8" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="480" y="550" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-90" value="Undying King: Claviger Boss" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="520" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-126" value="7" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VroCm4Ln8UbIvC11AFh9-129" value="8" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="282" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="iawqlcGQq6YOHTNZ5fg3-1" target="i8JC3EVUsBnXg4Bw61Ws-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iawqlcGQq6YOHTNZ5fg3-1" value="Keepers Tower" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="i8JC3EVUsBnXg4Bw61Ws-2" target="i8JC3EVUsBnXg4Bw61Ws-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="146" as="sourcePoint" />
+            <mxPoint x="60" y="186" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/favicon-64.png;fillColor=#f8cecc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#b85450;shadow=0;" parent="1" vertex="1">
+          <mxGeometry y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/trait_book_consumable_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#dae8fc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#6c8ebf;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-5" target="ELnaeVgZSDdQy1VC78Dr-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-5" target="ELnaeVgZSDdQy1VC78Dr-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-5" value="Scouring Wastes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-7" target="ELnaeVgZSDdQy1VC78Dr-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-7" value="Shackled Canyon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-8" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/trait_book_consumable_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#dae8fc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#6c8ebf;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-10" value="Lair of the Eyeless" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-10" target="ELnaeVgZSDdQy1VC78Dr-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="280" as="sourcePoint" />
+            <mxPoint x="60" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-15" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="180" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-17" target="ELnaeVgZSDdQy1VC78Dr-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-17" value="The Iron Rift" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-18" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/trait_book_consumable_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#dae8fc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#6c8ebf;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-19" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="340" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-22" target="ELnaeVgZSDdQy1VC78Dr-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-22" value="&lt;div&gt;The Hive&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-25" target="ELnaeVgZSDdQy1VC78Dr-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-25" value="Scouring Wastes II" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-27" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-29" value="3" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="180" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-36" value="1" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/akari_armor_remnant_from_the_ashes_wiki_guide_220px.png;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#00000060;" parent="1" vertex="1">
+          <mxGeometry x="-140" y="120" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-38" value="2" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/voidcarapace_armor_remnant_from_the_ashes_wiki_guide_220px.png;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#00000060;" parent="1" vertex="1">
+          <mxGeometry x="160" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-40" value="3" style="whiteSpace=wrap;html=1;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=28;imageHeight=9;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/beamrifle_basic_weapon_remnat_from_the_ashes_wiki_guide_250px.png;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#00000060;" parent="1" vertex="1">
+          <mxGeometry x="480" y="280" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-41" value="6" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="320" y="440" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-42" value="&lt;div&gt;Raze Boss&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;comic=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="460" width="240" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-44" value="5" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e51400;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#B20000;shadow=0;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="160" y="281" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-25" target="ELnaeVgZSDdQy1VC78Dr-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="244" y="760" as="sourcePoint" />
+            <mxPoint x="244" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-48" target="ELnaeVgZSDdQy1VC78Dr-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-48" value="Loom of the Black Sun" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-49" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/simulacrum_crafting_material_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#ffe6cc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#d79b00;shadow=0;" parent="1" vertex="1">
+          <mxGeometry y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-50" value="The Spindle" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry y="240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-50" target="i8JC3EVUsBnXg4Bw61Ws-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237" y="400" as="sourcePoint" />
+            <mxPoint x="237" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i8JC3EVUsBnXg4Bw61Ws-4" target="i8JC3EVUsBnXg4Bw61Ws-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="165" as="sourcePoint" />
+            <mxPoint x="160" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-55" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/favicon-64.png;fillColor=#f8cecc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#b85450;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="200" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-56" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-57" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-48" target="ELnaeVgZSDdQy1VC78Dr-58" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="612" as="sourcePoint" />
+            <mxPoint x="-40" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ELnaeVgZSDdQy1VC78Dr-58" target="ELnaeVgZSDdQy1VC78Dr-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-58" value="Unnamed" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-59" value="The Bunker" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="241" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-63" value="The Purge Hall" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="160" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-66" value="4" style="whiteSpace=wrap;html=1;glass=0;comic=0;rounded=1;fillColor=#e1d5e7;imageWidth=35;imageHeight=12;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#9673a6;shadow=0;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/wastelandflail_melee_weapon_remnant_from_the_ashes_wiki_guide_250px.png;fontStyle=0;fontColor=#FFFFFF;labelBackgroundColor=#00000060;" parent="1" vertex="1">
+          <mxGeometry x="180" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-68" value="" style="whiteSpace=wrap;html=1;aspect=fixed;glass=0;comic=0;rounded=1;image=https://remnantfromtheashes.wiki.fextralife.com/file/Remnant-From-The-Ashes/trait_book_consumable_remnant_from_the_ashes_wiki_guide_220px.png;fillColor=#dae8fc;imageWidth=20;imageHeight=20;imageAspect=1;imageAlign=center;absoluteArcSize=0;rotation=0;strokeColor=#6c8ebf;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="160" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ELnaeVgZSDdQy1VC78Dr-70" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
