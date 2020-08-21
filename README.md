@@ -12,4 +12,4 @@ Making location maps for remnant to be easier to navigate and get collectables.
 If you found an item/location that doesn't appear on any of the maps, create an issue.
 
 # Credits
-Credit to [u/olegbl](https://www.reddit.com/r/remnantgame/comments/cwdzsd/area_map_of_earth/) for making original earth map and [u/Tanugomi](https://www.reddit.com/r/remnantgame/comments/csm1dt/earth_events_and_dungeon_locations/) who gathered a bunch of data u/olegbl used. I have added additional data to the map from my own play-through of the game.
+Credit to [u/olegbl](https://www.reddit.com/user/olegbl/) for making the [original earth map](https://www.reddit.com/r/remnantgame/comments/cwdzsd/area_map_of_earth/) and [u/Tanugomi](https://www.reddit.com/user/Tanugomi/) who gathered a bunch of [data](https://www.reddit.com/r/remnantgame/comments/csm1dt/earth_events_and_dungeon_locations/) u/olegbl used. I have added additional data to the map from my own play-through of the game.
