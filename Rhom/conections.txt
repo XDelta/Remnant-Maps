@@ -1,4 +1,37 @@
-the eastern wind
+the eastern wind, top
 -vault of the herald
 vault of the herald, bottom
 -?
+
+the eastern wind, bottom right
+-shackled canyon
+shackled canyon
+-Lair of the eyeless
+{boss optional random}
+raze
+
+Lair of the eyeless
+-Scouring Wastes
+Scouring Wastes
+-The Iron rift
+The Iron rift
+-The hive
+The Hive
+-Scouring Wastes 2
+scourge {boss}
+Scouring Wastes 2 / The Monolith
+-
+Scouring Wastes 1
+-Loom of the black sun
+Loom of the black sun
+-The Spindle
+
+Loom of the black sun [Open the black sun gate]
+-simulacrum
+-compulsion loop
+The spindle boss Claviger
+-void sliver or stone of the gaurdian
+scouring wastes II
+-The purge hall
+tome kno
+wastelander flail
